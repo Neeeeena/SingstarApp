@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] /Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:10:1-66
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:10:18-64
+application
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:12:5-67:19
+MERGED from [com.android.support:support-v4:20.0.0] /Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:18:9-59
+activity#com.example.singingwithnina2.PlaySingActivity
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:screenOrientation
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:21:13-39
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:20:13-73
+activity#com.example.singingwithnina2.GrapherTwo
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:screenOrientation
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:28:13-67
+activity#com.example.singingwithnina2.Start
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:33:9-44:20
+	android:screenOrientation
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:34:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:36:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.example.singingwithnina2.HighScores
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:45:9-50:20
+	android:screenOrientation
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:47:13-40
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:46:13-67
+activity#com.example.singingwithnina2.Information
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:52:9-57:20
+	android:screenOrientation
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:54:13-34
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:53:13-68
+activity#com.example.singingwithnina2.Instrument
+ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:59:9-64:20
+	android:screenOrientation
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:61:13-39
+	android:name
+		ADDED from /Users/Nina/StudioProjects/SingingWNina/app/src/main/AndroidManifest.xml:60:13-67

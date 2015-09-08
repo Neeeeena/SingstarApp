@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#FF000000"
+    android:layout_height="match_parent" >
+    
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/intro"
+        android:textColor="#FFFFFFFF"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/playButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/stopButton"
+        android:layout_alignBottom="@+id/stopButton"
+        android:layout_alignParentLeft="true"
+        android:onClick="buttonClicked"
+        android:text="@string/play"
+        android:textColor="#FFFFFFFF" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/singButton"
+        android:layout_below="@+id/singButton"
+        android:layout_marginTop="90dp"
+        android:contentDescription="@string/empty" />
+
+    <Button
+        android:id="@+id/singButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/playButton"
+        android:layout_marginTop="36dp"
+        android:onClick="buttonClicked"
+        android:text="@string/sing"
+        android:textColor="#FF9900" />
+
+    <Button
+        android:id="@+id/stopButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="43dp"
+        android:onClick="buttonClicked"
+        android:text="@string/stop"
+        android:textColor="#FFFFFFFF" />
+
+    <Button
+        android:id="@+id/resultsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFFFF"
+        android:onClick="buttonClicked"
+        android:text="@string/results" />
+    
+</RelativeLayout>
+
+

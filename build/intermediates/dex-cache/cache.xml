@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nina/StudioProjects/SingingWNina/app/libs/GraphView-3.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fde5ac3b4d45761447598d87b4c43cc4d143890a">
+        <dex dex="/Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/pre-dexed/debug/GraphView-3.1.1-226235c913fcb13de4faa47f96ae62958d1d0d17.jar" />
+    </item>
+    <item
+        jar="/Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/pre-dexed/debug/classes-7990e85210c786571890747feed998c1f4384a29.jar" />
+    </item>
+    <item
+        jar="/Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-adfb86115fa9a27fb01b00f8d91d1921b5128bf4.jar" />
+    </item>
+    <item
+        jar="/Users/Nina/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/Nina/StudioProjects/SingingWNina/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-56a0ed9778a756c04eaa747b54264d4cf76c8816.jar" />
+    </item>
+
+</items>

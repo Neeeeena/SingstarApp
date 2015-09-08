@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Nina/StudioProjects/SingingWNina/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">About this app</string>
+    <string name="app_name">Singing with Nina</string>
+    <string name="back">Try Again</string>
+    <string name="clear">Clear Highscores</string>
+    <string name="empty"/>
+    <string name="fifth">5. </string>
+    <string name="first">1. </string>
+    <string name="fourth">4. </string>
+    <string name="goBackToStart">Start Screen</string>
+    <string name="goback">Back</string>
+    <string name="information">Created by Nina Stavnsbjerg, Sebastián Poliak, and Daniel Rivera. \n \n 
+         Singing with Nina is our final project for Software Atelier II. \n \n         
+         Special Thanks to Davide Eynard and Amanj Sherwany for the help!</string>
+    <string name="intro">Press play when youre ready to hear your melody and sing when youre ready to sing!</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="melody">Play Melody</string>
+    <string name="newMelody">Change Melody</string>
+    <string name="play">Play melody!</string>
+    <string name="quit"> Quit</string>
+    <string name="results">High Scores</string>
+    <string name="save">Save Score!</string>
+    <string name="saveScore">Enter your name to save your score</string>
+    <string name="score">	Your score: </string>
+    <string name="scores">High Scores</string>
+    <string name="second">2. </string>
+    <string name="sing">Sing! </string>
+    <string name="start">START!</string>
+    <string name="stop">Change Melody</string>
+    <string name="thanks">Thank you and we hope you enjoy it!</string>
+    <string name="third">3. </string>
+    <string name="voice">Your voice</string>
+    <!-- From: file:/Users/Nina/StudioProjects/SingingWNina/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
